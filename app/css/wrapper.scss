@@ -1,0 +1,161 @@
+$ZWritingBasic: 'ZWritingBasic';
+$ZBKidLetters: 'ZB KidLetters';
+
+
+
+@font-face {
+  font-family: 'ZWritingBasic';
+  src: url('../fonts/ZWritingBasic.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ZB KidLetters';
+  src: url('../fonts/ZB KidLetters.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css';
+
+.writingSuccessMain{
+	background: #fff;
+	@import "app";
+	@import "range";
+	@import "responsive";
+	/* @import "styles"; */
+}
+
+
+._sub_btm_nav._sub_btm_nav_cursive{
+    &.smallcase{
+        ul{
+            li{
+                &:nth-child(12),&:nth-child(11), &:nth-child(8),&:nth-child(6),&:nth-child(4),&:nth-child(2), &:nth-child(20){
+                    & > div{
+                        & > div{
+                            & > div{
+                                position: relative;
+                                top: 4px;
+                            }
+                        }
+                    }             
+                }
+                &:nth-child(16),&:nth-child(17),&:nth-child(25),&:nth-child(10), &:nth-child(7){
+                    & > div{
+                        & > div{
+                            & > div{
+                                position: relative;
+                                top: -1px;
+                            }
+                        }
+                    }             
+                }
+            }
+        } 
+    }
+
+}
+
+._sub_btm_nav{
+    &.smallcase{
+        ul{
+            li{
+                
+                &:nth-child(12),&:nth-child(11), &:nth-child(8),&:nth-child(6),&:nth-child(4),&:nth-child(2), &:nth-child(20){
+                    & > div{
+                        & > div{
+                            & > div{
+                                position: relative;
+                                top: 5px;
+                            }
+                        }
+                    }             
+                }
+				
+                &:nth-child(16),&:nth-child(17),&:nth-child(25),&:nth-child(10), &:nth-child(7){
+                    & > div{
+                        & > div{
+                            & > div{
+                                position: relative;
+                                top: -8px;
+                            }
+                        }
+                    }             
+                }
+            }
+        } 
+    }
+
+} 
+
+@media screen and (max-width: 1300px){
+    ._sub_btm_nav{
+        &.smallcase{
+            ul{
+                li{
+
+                    &:nth-child(12),&:nth-child(11), &:nth-child(8),&:nth-child(6),&:nth-child(4),&:nth-child(2),&:nth-child(11), &:nth-child(20), &:nth-child(9){
+                        & > div{
+                            & > div{
+                                & > div{
+                                    position: relative;
+                                    top: 5px;
+                                }
+                            }
+                        }             
+                    }
+                    &:nth-child(16),&:nth-child(17),&:nth-child(25),&:nth-child(10), &:nth-child(7){
+                        & > div{
+                            & > div{
+                                & > div{
+                                    position: relative;
+                                    top: -5px;
+                                }
+                            }
+                        }             
+                    }
+                    &:nth-child(10){
+                        & > div{
+                            & > div{
+                                & > div{
+                                    position: relative;
+                                    top: -3px;
+                                }
+                            }
+                        } 
+                    }
+                }
+            } 
+        }
+    }
+._sub_btm_nav._sub_btm_nav_cursive{
+    &.smallcase{
+        ul{
+            li{
+                &:nth-child(12),&:nth-child(11), &:nth-child(8),&:nth-child(6),&:nth-child(4),&:nth-child(2), &:nth-child(20){
+                    & > div{
+                        & > div{
+                            & > div{
+                                position: relative;
+                                top: 3px;
+                            }
+                        }
+                    }             
+                }
+                &:nth-child(16),&:nth-child(17),&:nth-child(25),&:nth-child(10), &:nth-child(7){
+                    & > div{
+                        & > div{
+                            & > div{
+                                position: relative;
+                                top: -2px;
+                            }
+                        }
+                    }             
+                }
+            }
+        } 
+    }
+
+}	
+}

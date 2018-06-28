@@ -1,0 +1,189 @@
+<!doctype html>
+<html>
+
+<head>
+    <title></title>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="../practice_assets/style.css"/><script src="../practice_assets/jquery-3.3.1.min.js"></script>
+
+</head>
+
+<body>
+
+    <div id="_iframewrapper">
+        <div id="main">
+            
+            <div id="demo" style="display:none;">
+                <!-- <div id="text_disp_can"></div>-->
+                <div class="canvas_main_div">
+                    <div class="acc_btns">
+                        <div id="accuracy">
+                           <div id="accuracyDiv">
+                                <span>Accuracy:</span>
+                                <ul>
+                                    <li>goal <b id="Count_run1">100</b></li>
+                                    <li>score <b id="Count_run">100</b></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="proc_board" style="display: none;"><button onclick="togglePBoard()"><span id="pb">Practice Board</span><span id="lb" style="display: none;">Letter Board</span></button></div>
+                    </div>
+                    <div class="lft_cont" id="letterBoard">
+                        <div class="can_wrap">
+                            <p>Lower Case <span style="text-transform: lowercase;">"q"</span></p><img src="" id="arrow" draggable="false" /><img src="../practice_assets/crct.png" draggable="true" id="guideimage"/><canvas id="c" style="background: transparent" width="500" height="500"></canvas></div>
+                    </div>
+                   
+                       <div class="rgt_cont" id="practiceBoard">
+                           <div class="can_wrap">
+                            <p>Practice Board</p><canvas id="d" style="background: transparent" width="500" height="500"></canvas>
+                            <div id="colorpicker">
+                                <ul>
+                                    <li>colors</li>
+                                    <li>
+                                        <div clr="black" class="clr blue active"></div>
+                                    </li>
+                                    <li>
+                                        <div clr="#9978D7" class="clr voilet"></div>
+                                    </li>
+                                    <li>
+                                        <div clr="#31CFF4" class="clr skyblue"></div>
+                                    </li>
+                                    <li>
+                                        <div clr="#DC6FAA" class="clr pink"></div>
+                                    </li>
+                                    <li>
+                                        <div clr="#00A086" class="clr green"></div>
+                                    </li>
+                                    <li>
+                                        <div clr="#D45300" class="clr orange"></div>
+                                    </li>
+
+
+                                </ul>
+                            </div>
+                            <div class="print-sec">
+							<img id="thumbnail_print" src="../../thumbnails/a.jpg" />
+                                <a href="" id="worksheet" onclick="printDocument()"  ><button><i class="fa fa-print"></i>print</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+    <!--<canvas id='c' class="" width="500" height="500" ></canvas>-->
+
+
+    <script src="../practice_assets/angular.min.js"></script>
+    <script>
+        
+        
+        var lastx = 0;
+        var lasty = 0;
+        var sequenceindex = 0;
+        var sequence = [{
+            "startx": 296,
+            "starty": 124,
+            "endx": 314,
+            "endy": 125,
+            "count": 7000,
+            "accuracyadd": .04,
+            "accuracyminus": .4,
+            "imgx": 310,
+            "imgy": 105,
+            "img": "03_arrow.png",
+            "rotate": "12deg",
+            "color": {
+                "r": 255,
+                "g": 252,
+                "b": 252,
+                "a": 255
+            },"mixcolor": {
+                "r": 254,
+                "g": 254,
+                "b": 254,
+                "a": 255
+            }
+        },{
+            "startx": 314,
+            "starty": 125,
+            "endx": 174,
+            "endy": 461,
+            "count": 7000,
+            "accuracyadd": .04,
+            "accuracyminus": .4,
+            "imgx": 308,
+            "imgy": 56,
+            "img": "02_arrow.png",
+            "rotate": "-10deg",
+            "color": {
+                "r": 252,
+                "g": 255,
+                "b": 252,
+                "a": 255
+            },"mixcolor": {
+                "r": 254,
+                "g": 254,
+                "b": 254,
+                "a": 255
+            }
+        },{
+            "startx": 174,
+            "starty": 461,
+            "endx": 231,
+            "endy": 295,
+            "count": 7000,
+            "accuracyadd": .04,
+            "accuracyminus": .4,
+            "imgx": 98,
+            "imgy": 422,
+            "img": "07_arrow.png",
+            "rotate": "9deg",
+            "color": {
+                "r": 252,
+                "g": 252,
+                "b": 255,
+                "a": 255
+            }
+        },{
+            "startx": 246,
+            "starty": 295,
+            "endx": 444,
+            "endy": 154,
+            "count": 7000,
+            "accuracyadd": .04,
+            "accuracyminus": .4,
+            "imgx": 168,
+            "imgy": 278,
+            "img": "07_arrow.png",
+            "rotate": "-17deg",
+            "color": {
+                "r": 255,
+                "g": 253,
+                "b": 252,
+                "a": 255
+            },"mixcolor": {
+                "r": 252,
+                "g": 252,
+                "b": 255,
+                "a": 255
+            }
+        }]
+
+
+       
+    var imageUrl="q.jpg"
+    </script>
+     <script src="../practice_assets/scripts.js"></script> 
+</body>
+
+</html>

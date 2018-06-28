@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+
+<head>
+    <title></title>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../practice_assets/style.css"/><script src="../practice_assets/jquery-3.3.1.min.js"></script>
+
+</head>
+
+<body>
+
+    <div id="_iframewrapper">
+        <div id="main">
+           
+            <div id="demo" style="display:none;">
+                <!-- <div id="text_disp_can"></div>-->
+                <div class="canvas_main_div">
+                    <div class="acc_btns">
+                        <div id="accuracy">
+                            <div id="accuracyDiv">
+                                <span>Accuracy:</span>
+                                <ul>
+                                    <li>goal <b id="Count_run1">100</b></li>
+                                    <li>score <b id="Count_run">100</b></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="proc_board" style="display: none;"><button onclick="togglePBoard()"><span id="pb">Practice Board</span><span id="lb" style="display: none;">Letter Board</span></button></div>
+                    </div>
+                    <div class="lft_cont" id="letterBoard">
+                        <div class="can_wrap">
+                            <p>Number "6"</p><img src="" id="arrow" draggable="false" /><img src="../practice_assets/crct.png" draggable="true" id="guideimage"/><canvas id="c" style="background: transparent" width="500" height="500"></canvas></div>
+                    </div>
+                   
+                       <div class="rgt_cont" id="practiceBoard"> <div class="can_wrap"> <div class="can_wrap">
+                            <p>Practice Board</p><canvas id="d" style="background: transparent" width="500" height="500"></canvas></div>
+							<div id="colorpicker">
+                <ul>
+                    <li>colors</li>
+                    <li>
+                        <div clr="black" class="clr blue active"></div>
+                    </li>
+                    <li>
+                        <div clr="#9978D7" class="clr voilet"></div>
+                    </li>
+                    <li>
+                        <div clr="#31CFF4" class="clr skyblue"></div>
+                    </li>
+                    <li>
+                        <div clr="#DC6FAA" class="clr pink"></div>
+                    </li>
+                    <li>
+                        <div clr="#00A086" class="clr green"></div>
+                    </li>
+                    <li>
+                        <div clr="#D45300" class="clr orange"></div>
+                    </li>
+                    
+
+                </ul>
+            </div>
+                   <div class="print-sec">
+							<img id="thumbnail_print" src="../../thumbnails/a.jpg" />
+                                <a href="" id="worksheet" onclick="printDocument('thumbnail_print')"  ><button><i class="fa fa-print"></i>print</button></a>
+                            </div>
+                    </div>
+                    
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+    <!--<canvas id='c' class="" width="500" height="500" ></canvas>-->
+
+
+    <script src="../practice_assets/angular.min.js"></script>
+    <script>
+       
+        
+        
+        var lastx = 0;
+        var lasty = 0;
+        var sequenceindex = 0;
+        var sequence = [{
+            "startx": 314,
+            "starty": 118,
+            "endx": 236,
+            "endy": 299,
+            "count": 7000,
+            "accuracyadd": .04,
+            "accuracyminus": .4,
+            "imgx": 315,
+            "imgy": 60,
+            "img": "02_arrow.png",
+            "rotate": "0deg",
+            "color": {
+                "r": 255,
+                "g": 252,
+                "b": 252,
+                "a": 255
+            }
+        }]
+
+var imageUrl="6.jpg"
+    </script>
+     <script src="../practice_assets/scripts.js"></script> 
+    </script>
+</body>
+
+</html>

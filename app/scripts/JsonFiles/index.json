@@ -1,0 +1,3900 @@
+{
+  "lesson": {
+    "manuscript": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "  dest/externallinks/manuscript/lesson/uppercase/A/WS_Manuscript_A.html",
+          "status": "0",
+		  "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/B/WS_Manuscript_B.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/C/WS_Manuscript_C.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/D/WS_Manuscript_D.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/E/WS_Manuscript_E.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/F/WS_Manuscript_F.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/G/WS_Manuscript_G.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/H/WS_Manuscript_H.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/I/WS_Manuscript_I.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/J/WS_Manuscript_J.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/K/WS_Manuscript_K.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/L/WS_Manuscript_L.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/M/WS_Manuscript_M.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/N/WS_Manuscript_N.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/O/WS_Manuscript_O.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/P/WS_Manuscript_P.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/Q/WS_Manuscript_Q.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/R/WS_Manuscript_R.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/S/WS_Manuscript_S.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/T/WS_Manuscript_T.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/U/WS_Manuscript_U.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/V/WS_Manuscript_V.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/W/WS_Manuscript_W.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/X/WS_Manuscript_X.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/Y/WS_Manuscript_Y.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "dest/externallinks/manuscript/lesson/uppercase/Z/WS_Manuscript_Z.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/a/WS_Manuscript_a.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/b/WS_Manuscript_b.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/c/WS_Manuscript_c.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/d/WS_Manuscript_d.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/e/WS_Manuscript_e.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/f/WS_Manuscript_f.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/g/WS_Manuscript_g.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/h/WS_Manuscript_h.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/i/WS_Manuscript_i.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/j/WS_Manuscript_j.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/k/WS_Manuscript_k.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/l/WS_Manuscript_l.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/m/WS_Manuscript_m.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/n/WS_Manuscript_n.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/o/WS_Manuscript_o.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/p/WS_Manuscript_p.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/q/WS_Manuscript_q.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/r/WS_Manuscript_r.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/s/WS_Manuscript_s.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/t/WS_Manuscript_t.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/u/WS_Manuscript_u.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/v/WS_Manuscript_v.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/w/WS_Manuscript_w.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/x/WS_Manuscript_x.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/y/WS_Manuscript_y.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "dest/externallinks/manuscript/lesson/lowercase/z/WS_Manuscript_z.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/0/WS_Manuscript_0.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/1/WS_Manuscript_1.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/2/WS_Manuscript_2.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/3/WS_Manuscript_3.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/4/WS_Manuscript_4.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/5/WS_Manuscript_5.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/6/WS_Manuscript_6.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/7/WS_Manuscript_7.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/8/WS_Manuscript_8.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "dest/externallinks/manuscript/lesson/numbers/9/WS_Manuscript_9.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ]
+    },
+    "cursive": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/A/WS_Cursive_A.html",
+          "status": "1",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/B/WS_Cursive_B.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/C/WS_Cursive_C.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/D/WS_Cursive_D.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/E/WS_Cursive_E.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/F/WS_Cursive_F.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/G/WS_Cursive_G.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/H/WS_Cursive_H.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/I/WS_Cursive_I.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/J/WS_Cursive_J.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/K/WS_Cursive_K.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/L/WS_Cursive_L.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/M/WS_Cursive_M.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/N/WS_Cursive_N.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/O/WS_Cursive_O.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/P/WS_Cursive_P.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/Q/WS_Cursive_Q.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/R/WS_Cursive_R.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/S/WS_Cursive_S.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/T/WS_Cursive_T.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/U/WS_Cursive_U.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/V/WS_Cursive_V.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/W/WS_Cursive_W.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/X/WS_Cursive_X.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/Y/WS_Cursive_Y.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "dest/externallinks/cursive/lesson/uppercase/Z/WS_Cursive_Z.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/a/WS_Cursive_a.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/b/WS_Cursive_b.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/c/WS_Cursive_c.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/d/WS_Cursive_d.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/e/WS_Cursive_e.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/f/WS_Cursive_f.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/g/WS_Cursive_g.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/h/WS_Cursive_h.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/i/WS_Cursive_i.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/j/WS_Cursive_j.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/k/WS_Cursive_k.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/l/WS_Cursive_l.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/m/WS_Cursive_m.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/n/WS_Cursive_n.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/o/WS_Cursive_o.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/p/WS_Cursive_p.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/q/WS_Cursive_q.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/r/WS_Cursive_r.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/s/WS_Cursive_s.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/t/WS_Cursive_t.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/u/WS_Cursive_u.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/v/WS_Cursive_v.html",
+            "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/w/WS_Cursive_w.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/x/WS_Cursive_x.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/y/WS_Cursive_y.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "dest/externallinks/cursive/lesson/lowercase/z/WS_Cursive_z.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/0/WS_Cursive_0.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/1/WS_Cursive_1.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/2/WS_Cursive_2.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/3/WS_Cursive_3.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/4/WS_Cursive_4.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/5/WS_Cursive_5.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/6/WS_Cursive_6.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/7/WS_Cursive_7.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/8/WS_Cursive_8.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "dest/externallinks/cursive/lesson/numbers/9/WS_Cursive_9.html",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ]
+    }
+  },
+  "practice": {
+    "manuscript": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/A/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/a.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/B/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/b.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/C/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/c.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/D/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/d.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/E/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/e.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/F/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/f.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/G/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/g.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/H/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/h.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/I/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/i.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/J/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/j.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/K/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/k.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/L/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/l.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/M/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/m.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/N/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/n.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/O/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/o.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/P/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/p.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/Q/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/q.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/R/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/r.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/S/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/s.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/T/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/t.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/U/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/u.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/V/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/v.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/W/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/w.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/X/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/x.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/Y/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/y.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "dest/externallinks/manuscript/practice/uppercase/Z/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/z.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/a/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/a.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/b/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/b.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/c/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/c.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/d/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/d.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/e/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/e.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/f/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/f.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/g/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/g.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/h/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/h.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/i/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/i.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/j/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/j.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/k/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/k.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/l/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/l.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/m/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/m.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/n/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/n.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/o/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/o.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/p/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/p.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/q/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/q.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/r/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/r.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/s/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/s.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/t/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/t.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/u/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/u.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/v/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/v.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/w/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/w.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/x/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/x.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/y/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/y.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "dest/externallinks/manuscript/practice/lowercase/z/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/z.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/0/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/0.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/0.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/1/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/1.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/1.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/2/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/2.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/2.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/3/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/3.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/3.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/4/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/4.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/4.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/5/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/5.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/5.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/6/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/6.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/6.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/7/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/7.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/7.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/8/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/8.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/8.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "dest/externallinks/manuscript/practice/numbers/9/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/thumbnails/9.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/manuscript/practice/worksheets/9.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ]
+    },
+    "cursive": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/A/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/a.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/B/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/b.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/C/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/c.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/D/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/d.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/E/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/e.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/F/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/f.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/G/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/g.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/H/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/h.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/I/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/i.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/J/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/j.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/K/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/k.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/L/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/l.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/M/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/m.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/N/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/n.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/O/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/o.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/P/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/p.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/Q/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/q.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/R/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/r.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/S/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/s.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/T/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/t.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/U/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/u.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/V/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/v.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/W/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/w.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/X/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/x.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/Y/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/y.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "dest/externallinks/cursive/practice/uppercase/Z/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/z.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/a/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/a.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/b/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/b.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/c/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/c.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/d/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/d.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/e/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/e.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/f/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/f.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/g/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/g.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/h/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/h.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/i/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/i.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/j/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/j.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/k/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/k.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/l/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/l.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/m/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/m.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/n/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/n.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/o/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/o.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/p/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/p.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/q/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/q.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/r/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/r.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/s/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/s.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/t/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/t.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/u/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/u.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/v/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/v.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/w/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/w.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/x/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/x.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/y/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/y.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "dest/externallinks/cursive/practice/lowercase/z/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/z.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/0/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/0.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/0.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/1/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/1.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/1.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/2/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/2.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/2.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/3/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/3.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/3.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/4/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/4.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/4.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/5/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/5.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/5.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/6/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/6.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/6.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/7/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/7.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/7.png",       
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/8/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/8.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/8.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "dest/externallinks/cursive/practice/numbers/9/index.html",
+          "thumbnail": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/thumbnails/9.jpg",
+          "worksheet": "https://apwritingsuccess.s3.amazonaws.com/cursive/practice/worksheets/9.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ]
+    }
+  },
+  "worksheets": {
+    "manuscript": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=1",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/a.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=2",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/b.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=3",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/c.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=4",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/d.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=5",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/e.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=6",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/f.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=7",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/g.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=8",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/h.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=9",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/i.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=10",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/j.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=11",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/k.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=12",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/l.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=13",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/m.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=14",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/n.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=15",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/o.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=16",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/p.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=17",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/q.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=18",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/r.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=19",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/s.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=20",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/t.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=21",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/u.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=22",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/v.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=23",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/w.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=24",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/x.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=25",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/y.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=26",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/z.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=27",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/a.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=28",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/b.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=29",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/c.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=30",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/d.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=31",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/e.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=32",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/f.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=33",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/g.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=34",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/h.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=35",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/i.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=36",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/j.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=37",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/k.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=38",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/l.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=39",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/m.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=40",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/n.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=41",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/o.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=42",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/p.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=43",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/q.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=44",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/r.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=45",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/s.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=46",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/t.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=47",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/u.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=48",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/v.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=49",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/w.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=50",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/x.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=51",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/y.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index.html?dummy=52",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/z.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=53",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/0.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/0.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=54",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/1.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/1.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=55",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/2.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/2.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=56",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/3.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/3.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=57",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/4.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/4.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=58",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/5.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/5.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=59",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/6.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/6.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=60",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/7.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/7.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=61",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/8.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/8.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "dest/externallinks/manuscript/worksheet/index_num.html?dummy=62",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/letterssounds/9.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/manuscript/worksheet/assets/writingabc/9.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ]
+    },
+    "cursive": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=1",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/a.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=2",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/b.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=3",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/c.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=4",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/d.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=5",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/e.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=6",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/f.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=7",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/g.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=8",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/h.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=9",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/i.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=10",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/j.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=11",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/k.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=12",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/l.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=13",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/m.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=14",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/n.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=15",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/o.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=16",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/p.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=17",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/q.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=18",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/r.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=19",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/s.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=20",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/t.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=21",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/u.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=22",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/v.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=23",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/w.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=24",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/x.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=25",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/y.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=26",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/z.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=27",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/a.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/a.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=28",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/b.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/b.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=29",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/c.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/c.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=30",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/d.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/d.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=31",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/e.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/e.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=32",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/f.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/f.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=33",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/g.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/g.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=34",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/h.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/h.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=35",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/i.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/i.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=36",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/j.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/j.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=37",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/k.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/k.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=38",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/l.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/l.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=39",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/m.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/m.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=40",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/n.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/n.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=41",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/o.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/o.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=42",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/p.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/p.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=43",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/q.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/q.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=44",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/r.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/r.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=45",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/s.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/s.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=46",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/t.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/t.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=47",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/u.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/u.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=48",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/v.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/v.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=49",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/w.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/w.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=50",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/x.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/x.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=51",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/y.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/y.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "dest/externallinks/cursive/worksheet/index.html?dummy=52",
+          "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/z.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/z.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=53",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/0.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/0.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=54",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/1.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/1.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=55",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/2.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/2.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=56",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/3.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/3.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=57",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/4.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/4.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=58",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/5.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/5.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=59",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/6.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/6.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=60",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/7.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/7.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=61",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/8.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/8.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "dest/externallinks/cursive/worksheet/index_num.html?dummy=62",
+            "letterandsound": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/letterssounds/9.png",
+          "writingabc": "https://apwritingsuccess.s3.amazonaws.com/cursive/worksheet/assets/writingabc/9.png",
+          "status": "0",
+          "scormurl": "",
+          "isadded": true,
+          "scorm_status": ""
+        }
+      ]
+    }
+  }
+}

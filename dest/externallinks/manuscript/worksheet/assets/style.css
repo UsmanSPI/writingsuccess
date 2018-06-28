@@ -1,0 +1,171 @@
+body{
+    /* overflow:hidden; */
+    }
+div#viewer{
+    background: #fff;
+}
+.pdfViewer .page{
+    background: #fff;
+}
+iframe{
+    border: none !important;
+}
+.iFrameSec{
+    position: relative;
+    float: left;
+    margin: 0px 15px;
+}
+
+.iFrameSec.align-center{
+    float: none;
+    width: auto;
+    margin: auto;
+}
+.iFrameSec a {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background: #FF9F0A;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    border: 3px solid #C1954E;
+	opacity:0.5;
+}
+.iFrameSec a img {
+    width: 27px;
+    height: 27px;
+    text-align: center;
+    margin: auto;
+    padding-top: 11px;
+}
+.MainCont {
+    width: auto;
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+}
+.link_print{
+text-decoration:none;
+    user-select: none;
+}
+/* .iFrameSec img#pagetwo,.iFrameSec img#pageone{
+    border: 1px solid #ccc;
+        width: 510px;
+    height: 700px;
+} */
+@media screen and (min-width: 1420px){
+	 .iFrameSec img#pagetwo,.iFrameSec img#pageone{border: 1px solid #ccc;
+        width: 510px;
+    height: 600px;
+	 }
+}
+
+@media screen and (min-width: 1050px) and (max-width: 1200px){
+    .MainCont{ width: auto; }
+    .iFrameSec iframe{ width: 500px; }
+    .iFrameSec a{ position: absolute; top: 10px; right: 22px; }
+    .iFrameSec a img { width: 20px; height: 20px; text-align: center; margin: auto; padding-top: 0px; margin-top: 5px; position: relative; display: block; }
+}
+@media screen and (min-width: 1280px) and (max-width: 1441px){
+    .iFrameSec img#pagetwo, .iFrameSec img#pageone {
+        border: 1px solid #ccc;
+        width: 355px;
+        height: 460px;
+    }    
+}
+@media screen and (min-width: 1026px) and (max-width: 1401px){
+    .iFrameSec iframe{ width: 410px; height: 471px; }
+    .iFrameSec img{ width: auto; height: 470px;border:1px solid #ccc; }
+}
+
+@media screen and (min-width: 980px) and (max-width: 1045px){
+    .iFrameSec iframe{ width: 500px; }
+    .MainCont{ width: auto; }
+    .iFrameSec{ float: none; }
+}
+
+
+
+@media screen and (max-width: 1024px){
+    .iFrameSec iframe{
+        height: 530px;
+    }
+    
+    .iFrameSec{ float: none; }
+    .iFrameSec{ float: left!important; }
+    .iFrameSec img#pagetwo, .iFrameSec img#pageone{
+        width: auto !important;
+        height: 400px!important;
+    }
+    .iFrameSec a{
+        bottom: 10px;
+        right: 0px;
+    }
+}
+@media screen and (max-width: 800px){
+    .iFrameSec iframe{
+        height: 530px;
+    }
+    
+    .iFrameSec{ float: none; }
+    .iFrameSec{ float: left!important; }
+    .iFrameSec img#pagetwo, .iFrameSec img#pageone{
+        width: auto !important;
+        height: 270px!important;
+    }
+}
+@media screen  and (max-width: 980px){
+    .iFrameSec{ float: none; } 
+    .iFrameSec img{ width: auto; height: 400px; }
+}
+@media screen and (max-width: 800px){
+    .iFrameSec iframe{
+        height: 410px;
+    }
+    .iFrameSec{ float: none; }
+}
+@media screen and (min-width: 921px) and (max-width: 979px){
+    .iFrameSec iframe{ width: 440px; }
+    .MainCont{ width: auto; }
+    .iFrameSec{ float: none; }
+}
+
+@media screen and (min-width: 800px) and (max-width: 920px){
+    .iFrameSec iframe{ width: 380px; }
+    .MainCont{ width: auto; }
+    .iFrameSec{ float: none; }
+}
+
+@media screen and (min-width: 645px) and (max-width: 920px){
+    .iFrameSec iframe{ width: 310px; }
+    .MainCont{ width: auto; }
+    .iFrameSec{ float: none; }
+}
+@media screen and (min-width: 645px) and (max-width: 920px){
+    .iFrameSec iframe{ width: 310px; }
+    .iFrameSec{ float: none; }
+    .MainCont{ width: auto; }
+    .iFrameSec img#pagetwo,.iFrameSec img#pageone{
+        border: 1px solid #ccc;
+        width: 300px;
+        height: 390px;
+    }
+    .submenu_cont .alpha_num_menu{
+            padding: 7px 10px 0px;
+    }
+}
+@media screen and (max-width: 640px){
+    .iFrameSec { position: relative; float: left;/* width: 30%; */ width: 45%; display: block; margin: auto 5px; }
+    .iFrameSec iframe { height: 380px; width: 320px; }
+    .MainCont{ width: auto; }
+    .iFrameSec img#pagetwo, .iFrameSec img#pageone {
+        border: 1px solid #ccc;
+        width: 100%;
+        height: 200px!important;
+    }
+    .submenu_cont .alpha_num_menu{
+        padding: 12px 10px 0px!important;
+    }
+}

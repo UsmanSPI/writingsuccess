@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+	   <link rel="stylesheet" href="assets/style.css">
+    <script
+            src="https://code.jquery.com/jquery-3.3.1.js"
+            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+            crossorigin="anonymous"></script>
+ </head>
+ <script>
+ var onepage=false;
+   var flag1=0,flag2=0;
+  function imgoneloaded(){
+  
+ 	
+	console.log('hello1');
+	flag1++;
+	if(flag1>1){
+	$('#downloadlink1').css('opacity','1');}
+} 
+function imgtwoloaded(){
+		
+		console.log('hello2');
+		flag2++;
+		if(flag2>1){
+		$('#downloadlink2').css('opacity','1');
+		}
+} 
+ </script>
+<body align="center" style="text-align: center;overflow:hidden;">
+<div class="MainCont">
+    <div class="iFrameSec">
+        <!-- <iframe id="pageone" src="" width="550" height="700"></iframe> -->
+		<img id="pageone" src="assets/loading.gif" width="550" height="700" onload="imgoneloaded()"/>
+        <a id="downloadlink1" class="link_print" href="#" onclick="printDocument('pageone')" ><img src="assets/print-button.png" alt="" style="border:none;"></a>
+    </div>
+    <div class="iFrameSec">
+        <!-- <iframe id="pagetwo" src="" width="550" height="700"></iframe> -->
+		<img id="pagetwo" src="assets/loading.gif" width="550" height="700" onload="imgtwoloaded()"/>
+        <a id="downloadlink2" class="link_print" href="#" onclick="printDocument('pagetwo')"><img src="assets/print-button.png" alt="" style="border:none;"></a>
+    </div>
+</div>
+ <script src="assets/script.js"></script>
+    
+</body>
+</html>

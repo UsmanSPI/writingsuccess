@@ -1,0 +1,15 @@
+
+<!--   <button ng-click="buttonclick()" value="click" />-->
+    
+ <!--<div ng-repeat="listdata in datajson track by $index" ng-class="{'activeBg':listdata.isActive == 'true','defaultBg':listdata.isActive == 'false'}"><div ng-click="hello($index)">{{listdata.name}}</div></div>-->
+ <li ng-repeat="listdata in datajson track by $index">
+    <div ng-class="{'Activetext': listdata.isActive == 'true','completed_status': listdata.scorm_status == 'completed','disabled-st': listdata.isadded == false }"> 
+        <div ng-if="listdata.isadded">
+           <div ng-click="hello($index)">{{listdata.name}}</div>
+        </div>
+        <div ng-if="!listdata.isadded">
+          <div>{{listdata.name}}</div>
+        </div>
+        
+    </div>
+</li>

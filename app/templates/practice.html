@@ -1,0 +1,44 @@
+<!--<div ng-repeat="listdata in menuitems track by $index" ng-click="test(listdata.link)">{{listdata.text}}</div>
+
+<list-menu datajson="jsonlessonvalue" dataparam="practice" ng-if="jsonlessonvalue.length" changviewarea="changelessonview(response)">
+    
+    
+</list-menu>-->
+<div id="menu_wrapper" ng-init="toggleMenu = false">
+    <button class="mtoggle_sec_btn orange" ng-click="obj.togglemenu = !obj.togglemenu" ng-class="{'change_icon': obj.togglemenu == false}"><i class="fa fa-angle-up"></i></button>
+    <div class="whole_menu_cont" ng-class="{'Collapse_menu': obj.togglemenu == false}">
+        <div class="submenu_cont practice_active">
+            <div class="_sub_top_nav">
+                <div class="alpha_num_menu">
+                   <ul class="alpha_num_menu_sub btn-join">
+                        <li ng-class="{'active': obj.lettertype == 'manuscript'}" ng-click="lettertype('manuscript')"><a>Manuscript</a></li>
+                        <li ng-class="{'active': obj.lettertype == 'cursive'}" ng-click="lettertype('cursive')"><a>cursive</a></li>
+                    </ul>
+                    <ul class="alpha_num_menu_sub">
+                        <li ng-repeat="listdata in menuitems track by $index" ng-class="{'char_Active': listdata.link == current_active_menu}"><a href="javascript:void(0);" ng-click="test(listdata.link)">{{listdata.text}}</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="_sub_btm_nav" ng-class="{'smallcase': lowecasevalue == true, '_sub_btm_nav_manuscript': obj.lettertype == 'manuscript','_sub_btm_nav_cursive': obj.lettertype == 'cursive' }">
+                <ul>
+                    <list-menu datajson="jsonlessonvalue"  buttonevent="aaa" dataparam="lesson" ng-if="jsonlessonvalue.length" changviewarea="changelessonview(response)"></list-menu>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="practice_ifr" class="ng-scope">
+     <div class="breadcrum">Practice > {{obj.lettertype}} > <span  class="submenu">{{current_active_menu}}</span></div>
+     <div class="next_otherdevices" id="nxtbtn" ng-class="{'opacitylow' : nextbuttonactive != true}"  ng-click="nxtbtnclick()">Next Letter</div>
+	 <div class="next_mobileprotdevices" id="nxtbtn" ng-class="{'opacitylow' : nextbuttonactive != true}" ng-click="nxtbtnclick()"><i class="fa fa-chevron-right" aria-hidden="true"></i></div>
+
+    <div class="prev_otherdevices" id="prvbtn" ng-class="{'opacitylow' : prevbuttonactive != true}" ng-click="prvbtnclick()">Prev Letter</div>
+	<div class="prev_mobileprotdevices" id="prvbtn" ng-class="{'opacitylow' : prevbuttonactive != true}" ng-click="prvbtnclick()"><i class="fa fa-chevron-left" aria-hidden="true"></i></div>
+    <iframe ng-src="{{url}}" id="practice_view_iframe" style="display: block;width: 95%;height:100%;min-height: 720px;margin: 0 auto;"></iframe>
+    <div class="col-md-12 button_group">
+        <div class="navigate_button"><button class="oclr" ng-click="cleardashboard()">Reset Board</button></div>
+        <div class="navigate_button"><button class="oclr" ng-class="{'opacitylow' : lessonactive != true}" ng-click="gotolesson(current_letter)">Lesson - {{current_letter}}</button></div>
+        <div class="navigate_button"><button class="oclr opacitylow" ng-click="" disabled>Practice - {{current_letter}}</button></div>
+        <div class="navigate_button"><button class="oclr" ng-class="{'opacitylow' : worksheetactive != true}" ng-click="gotoworksheet(current_letter)">Worksheet - {{current_letter}}</button></div>
+    </div>
+</div>

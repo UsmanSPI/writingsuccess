@@ -1,0 +1,183 @@
+<div id="wrapper">
+    <header id="header_sec">
+        <nav class="navigation_main">
+            <div class="container-fluid">
+                <div class="row">
+                    <div id="navbar">
+                        <!--<div class="top_header">
+                            <ul class="right_top_cont">
+                               <li>
+                                   <button class="setting_btn" ng-init="showsetting_modal = false" ng-click="showsetting_modal = !showsetting_modal"><i class="fa fa-gear"></i></button>
+                               </li>
+                                <li class="dropdown">
+                                   <div class="btn-group" uib-dropdown is-open="status.isopen">
+                                      <button id="profile_dropdown" type="button" uib-dropdown-toggle ng-disabled="disabled">
+                                        Smith Karmar <span class="caret"></span>
+                                      </button>
+                                      <ul class="dropdown-menu" uib-dropdown-menu role="menu" aria-labelledby="single-button">
+                                        <li role="menuitem"><a href="#">My Profile</a></li>
+                                      </ul>
+                                    </div>
+                                </li>
+                                <li><a href="javascript:void(0);">About Us</a></li>
+                                <li>
+                                    <form class="navbar-form" role="search">
+                                    <div class="input-group add-on">
+                                      <input class="form-control" placeholder="Search" name="srch-term" id="srch-term" type="text">
+                                      <div class="input-group-btn">
+                                        <button class="btn" type="submit"><i class="fa fa-search"></i></button>
+                                      </div>
+                                    </div>
+                                  </form>
+                                </li>
+                            </ul>
+                        </div>-->
+                        <div class="nav_header" ng-class="!navCollapsed && 'auto_height'">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar1" ng-class="!navCollapsed && 'tg_top_menu'" ng-init="navCollapsed = true" ng-click="navCollapsed = !navCollapsed">
+                                  <span class="sr-only">Toggle navigation</span>
+                                  <span class="icon-bar"></span>
+                                  <span class="icon-bar"></span>
+                                  <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="javascript:void(0);">
+                                    <img src="dest/images/SL_logo.png" ng-click="backToDashboard()" alt="Writing Success">
+                                    <img src="dest/images/Writing_logo.png" alt="Writing Success">
+                                </a>
+                                <!--<form action="" class="search-form">
+                                    <div class="form-group has-feedback">
+                                        <label for="search" class="sr-only">Search</label>
+                                        <input type="text" class="form-control" name="search" id="search" placeholder="search">
+                                        <span class="fa fa-search form-control-feedback"></span>
+                                    </div>
+                                </form>-->
+                              </div>
+                              <div id="right_menu_sec" class="navbar-collapse collapse pull-right" ng-class="!navCollapsed && 'in'">
+                               <div class="profilesec" style="display: none;">
+                                   
+								   <img src="dest/images/Writing_logo.png" alt="Writing Success" role="button" tabindex="0">
+<!--                                   <button class="setting_btn" ng-click="showsetting_modal = !showsetting_modal; navCollapsed = !navCollapsed"><i class="fa fa-gear"></i></button>-->
+                               </div>  
+                                 
+                               <ul class="nav navbar-nav">
+                                  <li class="{{mmain.cname}}" ng-class="{'{{mmain.cname}}_active': mmain.name == obj.mainmenu}" ng-repeat="mmain in mainmenuitems">
+                                      <a href="javascript:void(0);" ng-class="{'active': mmain.name == obj.mainmenu}" ng-click="test(mmain.name)"><i></i><span>{{mmain.name}}</span></a>
+                                  </li>
+                                  <li>
+                                      <a href="javascript:void(0);" class="setting_btn" ng-click="showsetting();">
+                                          <i class="fa fa-gear"></i>
+                                          <span>Settings</span>
+                                      </a>
+                                  </li>
+                               </ul>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+</div>
+<div>
+</div>
+
+
+<!-- Modal -->
+<div id="SettingModal" ng-if="showsetting_modal">
+      <div class="settings_tab" ng-if="showsetting_modal">
+                                  <div class="SettingTab">
+                                      Settings
+                                      <button ng-click="closesetBan()"><i class="fa fa-times"></i></button>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="col-md-6 ml0">
+                                           <div class="page_title_sec">
+                                               <h3>Practice</h3>
+                                           </div>   
+                                           <div class="settingContSec">
+                                               <div class="pracTButtons">
+                                                   <h5>Accuracy Score</h5>
+                                                    <div class="onoffswitch">
+                                                        <div class="btn-group">
+                                                            <button type="button" class="btn btn-default" id="regi1" ng-class="{'active': checkboxModel.accuracyvalue == true}" ng-click="changeaccuarcy(true)">Show</button>
+                                                            <button type="button" class="btn btn-default" id="regi2" ng-class="{'active': checkboxModel.accuracyvalue == false}" ng-click="changeaccuarcy(false)">Hide</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="pracTButtons">
+                                                   <h5>Line Width</h5>
+                                                    <div class="onoffswitch">
+                                                        <div class="btn-group">
+                                                            <button type="button" class="btn btn-default" ng-class="{'active': checkboxModel.guidelinewidth == 'low'}" id="regi1" ng-click="changeguidelinewidth('low')">Thin</button>
+                                                            <button type="button" class="btn btn-default" ng-class="{'active': checkboxModel.guidelinewidth == 'medium'}" id="regi2" ng-click="changeguidelinewidth('medium')">Medium</button>
+                                                            <button type="button" class="btn btn-default" ng-class="{'active': checkboxModel.guidelinewidth == 'high'}" id="regi2" ng-click="changeguidelinewidth('high')">Thick</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="pracTButtons">
+                                                   <h5>Show Guide Line Arrow</h5>
+                                                    <div class="onoffswitch">
+                                                        <div class="btn-group">
+                                                            <button type="button" class="btn btn-default" id="regi1" ng-class="{'active': checkboxModel.showguideline == true}" ng-click="changeguidelinearrow(true)">Show</button>
+                                                            <button type="button" class="btn btn-default" id="regi2" ng-class="{'active': checkboxModel.showguideline == false}" ng-click="changeguidelinearrow(false)">Hide</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="pracTButtons rangeSlide">
+                                                   <h5>Accuracy Need to Advance Next Letter - {{checkboxModel.accuracypercent}}%</h5>
+                                                    <div class="onoffswitch">
+                                                        <div class="range">
+                                                            <output id="range11">0%</output>
+                                                            <input type="range" name="range" ng-model="checkboxModel.accuracypercent" min="0" max="100"  >
+                                                            <output id="range1">100%</output>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                
+                                           </div>
+                                      </div>
+<!--
+                                      <div class="col-md-6 ml0">
+                                           <div class="page_title_sec">
+                                               <h3>Test</h3>
+                                           </div>
+                                           <div class="settingContSec">
+                                                <div class="pracTButtons">
+                                                   <h5>Mode</h5>
+                                                    <div class="onoffswitch">
+                                                        <div class="btn-group">
+                                                            <button type="button" class="btn btn-default" id="regi1" ng-class="{'active': checkboxModel.modevalue == true}" ng-click="changemodevalue(true)">Easy</button>
+                                                            <button type="button" class="btn btn-default" id="regi2" ng-class="{'active': checkboxModel.modevalue == false}" ng-click="changemodevalue(false)">Hard</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </div>   
+                                      </div>
+-->
+                                  </div>
+                                  <!--
+                                   <div class="accuracy_show">
+                                       <h5>Accuracy</h5>
+                                        <div class="onoffswitch">
+                                            <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked ng-model="checkboxModel.accuracyvalue" ng-change="changeaccuarcy()" ng-true-value="true" ng-false-value="false">
+                                            <label class="onoffswitch-label" for="myonoffswitch">
+                                            <span class="onoffswitch-inner accuracy_txt"></span>
+                                            <span class="onoffswitch-switch"></span>
+                                            </label>
+                                        </div>
+                                   </div>
+                                   <div class="mode_show">
+                                       <h5>Mode</h5>
+                                        <div class="onoffswitch">
+                                            <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch1" checked ng-model="checkboxModel.modevalue" ng-true-value="true" ng-change="changemodevalue()" ng-false-value="false">
+                                            <label class="onoffswitch-label" for="myonoffswitch1">
+                                            <span class="onoffswitch-inner mode_txt"></span>
+                                            <span class="onoffswitch-switch"></span>
+                                            </label>
+                                        </div>
+                                   </div>-->
+                               </div>
+</div>
+<div class="backdrop" ng-if="showsetting_modal" ng-click="closesetBan()"></div>
+    

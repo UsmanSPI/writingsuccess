@@ -1,0 +1,181 @@
+
+.range {
+    display: table;
+    position: relative;
+    height: 25px;
+ /*   margin-top: 20px;*/
+    background-color: rgb(245, 245, 245);
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.range input[type="range"] {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    -ms-appearance: none !important;
+    -o-appearance: none !important;
+    appearance: none !important;
+    border: 1px solid #ddd;
+    display: table-cell;
+    width: 100%;
+    background-color: transparent;
+    height: 25px;
+    cursor: pointer;
+}
+.range input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    -ms-appearance: none !important;
+    -o-appearance: none !important;
+    appearance: none !important;
+
+    width: 11px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0px;
+    background-color: rgb(153, 153, 153);
+}
+
+.range input[type="range"]::-moz-slider-thumb {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    -ms-appearance: none !important;
+    -o-appearance: none !important;
+    appearance: none !important;
+    
+    width: 11px;
+    height: 11px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0px;
+    background: url(../images/circle.png) no-repeat;
+}
+
+.range output {
+    display: table-cell;
+    padding: 3px 5px 2px;
+    min-width: 40px;
+    color: #333;
+  
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+    background: rgba(250,250,250,1);
+background: -moz-linear-gradient(-45deg, rgba(250,250,250,1) 0%, rgba(237,237,237,1) 47%, rgba(237,237,237,1) 51%, rgba(237,237,237,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(250,250,250,1)), color-stop(47%, rgba(237,237,237,1)), color-stop(51%, rgba(237,237,237,1)), color-stop(100%, rgba(237,237,237,1)));
+background: -webkit-linear-gradient(-45deg, rgba(250,250,250,1) 0%, rgba(237,237,237,1) 47%, rgba(237,237,237,1) 51%, rgba(237,237,237,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(250,250,250,1) 0%, rgba(237,237,237,1) 47%, rgba(237,237,237,1) 51%, rgba(237,237,237,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(250,250,250,1) 0%, rgba(237,237,237,1) 47%, rgba(237,237,237,1) 51%, rgba(237,237,237,1) 100%);
+background: linear-gradient(135deg, rgba(250,250,250,1) 0%, rgba(237,237,237,1) 47%, rgba(237,237,237,1) 51%, rgba(237,237,237,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#ededed', GradientType=1 );
+
+}
+.range input[type="range"] {
+    outline: none;
+}
+
+.range.range-primary input[type="range"]::-webkit-slider-thumb {
+    background-color: rgb(66, 139, 202);
+}
+.range.range-primary input[type="range"]::-moz-slider-thumb {
+    background-color: rgb(66, 139, 202);
+}
+.range.range-primary output {
+    background-color: rgb(66, 139, 202);
+}
+.range.range-primary input[type="range"] {
+    outline-color: rgb(66, 139, 202);
+}
+
+.range.range-success input[type="range"]::-webkit-slider-thumb {
+    background-color: rgb(92, 184, 92);
+}
+.range.range-success input[type="range"]::-moz-slider-thumb {
+    background-color: rgb(92, 184, 92);
+}
+.range.range-success output {
+    background-color: rgb(92, 184, 92);
+}
+.range.range-success input[type="range"] {
+    outline-color: rgb(92, 184, 92);
+}
+
+.range.range-info input[type="range"]::-webkit-slider-thumb {
+    background-color: rgb(91, 192, 222);
+}
+.range.range-info input[type="range"]::-moz-slider-thumb {
+    background-color: rgb(91, 192, 222);
+}
+.range.range-info output {
+    background-color: rgb(91, 192, 222);
+}
+.range.range-info input[type="range"] {
+    outline-color: rgb(91, 192, 222);
+}
+
+.range.range-warning input[type="range"]::-webkit-slider-thumb {
+    background-color: rgb(240, 173, 78);
+}
+.range.range-warning input[type="range"]::-moz-slider-thumb {
+    background-color: rgb(240, 173, 78);
+}
+.range.range-warning output {
+    background-color: rgb(240, 173, 78);
+}
+.range.range-warning input[type="range"] {
+    outline-color: rgb(240, 173, 78);
+}
+
+.range.range-danger input[type="range"]::-webkit-slider-thumb {
+    background-color: rgb(217, 83, 79);
+}
+.range.range-danger input[type="range"]::-moz-slider-thumb {
+    background-color: rgb(217, 83, 79);
+}
+.range.range-danger output {
+    background-color: rgb(217, 83, 79);
+}
+.range.range-danger input[type="range"] {
+    outline-color: rgb(217, 83, 79);
+}
+
+
+.rangeSlide{
+    width: 350px;
+    height: 35px;
+    .onoffswitch{
+        background: rgba(255,255,255,1);
+background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 24%, rgba(237,237,237,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(24%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 24%, rgba(237,237,237,1) 100%);
+background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 24%, rgba(237,237,237,1) 100%);
+background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 24%, rgba(237,237,237,1) 100%);
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 24%, rgba(237,237,237,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
+        padding: 15px;
+    }
+}

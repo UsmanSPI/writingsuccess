@@ -1,0 +1,72 @@
+  #animation_container{
+            margin: 0 auto;
+        }
+#dom_overlay_container, div#animation_container, .can_wrap, div#demo>#c, canvas, #canvas{
+            margin: auto;
+        }
+    @media screen and (min-width: 1180px) and (max-width: 1440px){
+        canvas{
+            width: 500px !important;
+            height: 500px !important;
+            margin: auto;
+        }
+        #canvas{
+            width: 500px !important;
+            height: 500px !important;
+        }    
+        #dom_overlay_container, div#animation_container, .can_wrap, div#demo>#c{
+            width: 500px !important;
+            height: 500px !important;
+            margin: auto;
+        }
+    }
+    @media screen and (max-width: 767px){
+    canvas{
+        width: 300px !important;
+        height: 300px !important;
+        margin: auto;
+    }
+            #canvas{
+            width: 300px !important;
+            height: 300px !important;
+        }    
+        #dom_overlay_container, div#animation_container, .can_wrap, div#demo>#c{
+            width: 300px !important;
+            height: 300px !important;
+            margin: auto;
+        }
+        
+    }
+		@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+	canvas{
+            width: 500px !important;
+            height: 500px !important;
+            margin: auto;
+        }
+        #canvas{
+            width: 500px !important;
+            height: 500px !important;
+        }    
+        #dom_overlay_container, div#animation_container, .can_wrap, div#demo>#c{
+            width: 500px !important;
+            height: 500px !important;
+            margin: auto;
+        }
+		#practice_ifr iframe {
+    min-height: 860px !important;
+}
+}
+	
+	@media screen and (min-width:360px) and (max-width:420px) and (orientation: portrait){
+div#animation_container{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+}

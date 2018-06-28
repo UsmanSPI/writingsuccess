@@ -1,0 +1,3878 @@
+{
+  "lesson": {
+    "manuscript": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "app/externallinks/lesson/Uppercase/A/writing success_Font-kid_A.html",
+          "status": "1",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": "completed"
+        },
+        {
+          "name": "B",
+          
+          "url": "app/externallinks/lesson/Uppercase/B/writing success_Font-kid_B.html",
+          "status": "1",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": "completed"
+        },
+        {
+          "name": "C",
+          
+          "url": "app/externallinks/lesson/Uppercase/C/writing success_Font-kid_C.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": "completed"
+        },
+        {
+          "name": "D",
+          
+          "url": "app/externallinks/lesson/Uppercase/D/writing success_Font-kid_D.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "app/externallinks/lesson/Uppercase/E/writing success_Font-kid_E.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "app/externallinks/lesson/Uppercase/F/writing success_Font-kid_F.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "app/externallinks/lesson/Uppercase/G/writing success_Font-kid_G.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "app/externallinks/lesson/Uppercase/H/writing success_Font-kid_H.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "app/externallinks/lesson/Uppercase/I/writing success_Font-kid_I.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "app/externallinks/lesson/Uppercase/J/writing success_Font-kid_J.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "app/externallinks/lesson/Uppercase/K/writing success_Font-kid_K.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "app/externallinks/lesson/Uppercase/L/writing success_Font-kid_L.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "app/externallinks/lesson/Uppercase/M/writing success_Font-kid_M.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "app/externallinks/lesson/Uppercase/N/writing success_Font-kid_N.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "app/externallinks/lesson/Uppercase/O/writing success_Font-kid_O.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "app/externallinks/lesson/Uppercase/P/writing success_Font-kid_P.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "app/externallinks/lesson/Uppercase/Q/writing success_Font-kid_Q.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "app/externallinks/lesson/Uppercase/R/writing success_Font-kid_R.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "app/externallinks/lesson/Uppercase/S/writing success_Font-kid_S.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "app/externallinks/lesson/Uppercase/T/writing success_Font-kid_T.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "app/externallinks/lesson/Uppercase/U/writing success_Font-kid_U.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "app/externallinks/lesson/Uppercase/V/writing success_Font-kid_V.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "app/externallinks/lesson/Uppercase/W/writing success_Font-kid_W.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "app/externallinks/lesson/Uppercase/X/writing success_Font-kid_X.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "app/externallinks/lesson/Uppercase/Y/writing success_Font-kid_Y.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "app/externallinks/lesson/Uppercase/Z/writing success_Font-kid_Z.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "app/externallinks/lesson/Lowercase/a/writing success_Font-kid_a.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "app/externallinks/lesson/Lowercase/b/writing success_Font-kid_b.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "app/externallinks/lesson/Lowercase/c/writing success_Font-kid_c.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "app/externallinks/lesson/Lowercase/d/writing success_Font-kid_d.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "app/externallinks/lesson/Lowercase/e/writing success_Font-kid_e.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "app/externallinks/lesson/Lowercase/f/writing success_Font-kid_f.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "app/externallinks/lesson/Lowercase/g/writing success_Font-kid_g.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "app/externallinks/lesson/Lowercase/h/writing success_Font-kid_h.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "app/externallinks/lesson/Lowercase/i/writing success_Font-kid_i.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "app/externallinks/lesson/Lowercase/j/writing success_Font-kid_j.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "app/externallinks/lesson/Lowercase/k/writing success_Font-kid_k.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "app/externallinks/lesson/Lowercase/l/writing success_Font-kid_l.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "app/externallinks/lesson/Lowercase/m/writing success_Font-kid_m.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "app/externallinks/lesson/Lowercase/n/writing success_Font-kid_n.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "app/externallinks/lesson/Lowercase/o/writing success_Font-kid_o.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "app/externallinks/lesson/Lowercase/p/writing success_Font-kid_p.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "app/externallinks/lesson/Lowercase/q/writing success_Font-kid_q.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "app/externallinks/lesson/Lowercase/r/writing success_Font-kid_r.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "app/externallinks/lesson/Lowercase/s/writing success_Font-kid_s.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "app/externallinks/lesson/Lowercase/t/writing success_Font-kid_t.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "app/externallinks/lesson/Lowercase/u/writing success_Font-kid_u.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "app/externallinks/lesson/Lowercase/v/writing success_Font-kid_v.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "app/externallinks/lesson/Lowercase/w/writing success_Font-kid_w.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "app/externallinks/lesson/Lowercase/x/writing success_Font-kid_x.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "app/externallinks/lesson/Lowercase/y/writing success_Font-kid_y.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "app/externallinks/lesson/Lowercase/z/writing success_Font-kid_z.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "app/externallinks/lesson/Numbers/0/writing success_Font-kid_0.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "app/externallinks/lesson/Numbers/1/writing success_Font-kid_1.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "app/externallinks/lesson/Numbers/2/writing success_Font-kid_2.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "app/externallinks/lesson/Numbers/3/writing success_Font-kid_3.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "app/externallinks/lesson/Numbers/4/writing success_Font-kid_4.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "app/externallinks/lesson/Numbers/5/writing success_Font-kid_5.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "app/externallinks/lesson/Numbers/6/writing success_Font-kid_6.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "app/externallinks/lesson/Numbers/7/writing success_Font-kid_7.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "app/externallinks/lesson/Numbers/8/writing success_Font-kid_8.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "app/externallinks/lesson/Numbers/9/writing success_Font-kid_9.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ]
+    },
+    "cursive": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/A/WS_Cursive_A.html",
+          "status": "1",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/B/WS_Cursive_B.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/C/WS_Cursive_C.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/D/WS_Cursive_D.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/E/WS_Cursive_E.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/F/WS_Cursive_F.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/G/WS_Cursive_G.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/H/WS_Cursive_H.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/I/WS_Cursive_I.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/J/WS_Cursive_J.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/K/WS_Cursive_K.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/L/WS_Cursive_L.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/M/WS_Cursive_M.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/N/WS_Cursive_N.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/O/WS_Cursive_O.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/P/WS_Cursive_P.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/Q/WS_Cursive_Q.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/R/WS_Cursive_R.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/S/WS_Cursive_S.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/T/WS_Cursive_T.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/U/WS_Cursive_U.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/V/WS_Cursive_V.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/W/WS_Cursive_W.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/X/WS_Cursive_X.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/Y/WS_Cursive_Y.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "app/externallinks/cursive/lesson/Uppercase/Z/WS_Cursive_Z.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/a/WS_Cursive_a.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/b/WS_Cursive_b.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/c/WS_Cursive_c.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/d/WS_Cursive_d.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/e/WS_Cursive_e.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/f/WS_Cursive_f.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/g/WS_Cursive_g.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/h/WS_Cursive_h.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/i/WS_Cursive_i.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/j/WS_Cursive_j.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/k/WS_Cursive_k.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/l/WS_Cursive_l.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/m/WS_Cursive_m.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/n/WS_Cursive_n.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/o/WS_Cursive_o.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/p/WS_Cursive_p.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/q/WS_Cursive_q.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/r/WS_Cursive_r.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/s/WS_Cursive_s.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/t/WS_Cursive_t.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/u/WS_Cursive_u.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/v/WS_Cursive_v.html",
+            "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/w/WS_Cursive_w.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/x/WS_Cursive_x.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/y/WS_Cursive_y.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "app/externallinks/cursive/lesson/Lowercase/z/WS_Cursive_z.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/0/WS_Cursive_0.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/1/WS_Cursive_1.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/2/WS_Cursive_2.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/3/WS_Cursive_3.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/4/WS_Cursive_4.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/5/WS_Cursive_5.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/6/WS_Cursive_6.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/7/WS_Cursive_7.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/8/WS_Cursive_8.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "app/externallinks/cursive/lesson/Numbers/9/WS_Cursive_9.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ]
+    }
+  },
+  "practice": {
+    "manuscript": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "app/externallinks/practice/Uppercase/A/index.html",
+          "thumbnail": "../../thumbnails/a.jpg",
+          "worksheet": "../../worksheets/Letter Aa.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "app/externallinks/practice/Uppercase/B/index.html",
+          "thumbnail": "../../thumbnails/b.jpg",
+          "worksheet": "../../worksheets/Letter Bb.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "app/externallinks/practice/Uppercase/C/index.html",
+          "thumbnail": "../../thumbnails/c.jpg",
+          "worksheet": "../../worksheets/Letter Cc.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "app/externallinks/practice/Uppercase/D/index.html",
+          "thumbnail": "../../thumbnails/d.jpg",
+          "worksheet": "../../worksheets/Letter Dd.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "app/externallinks/practice/Uppercase/E/index.html",
+          "thumbnail": "../../thumbnails/e.jpg",
+          "worksheet": "../../worksheets/Letter Ee.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "app/externallinks/practice/Uppercase/F/index.html",
+          "thumbnail": "../../thumbnails/f.jpg",
+          "worksheet": "../../worksheets/Letter Ff.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "app/externallinks/practice/Uppercase/G/index.html",
+          "thumbnail": "../../thumbnails/g.jpg",
+          "worksheet": "../../worksheets/Letter Gg.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "app/externallinks/practice/Uppercase/H/index.html",
+          "thumbnail": "../../thumbnails/h.jpg",
+          "worksheet": "../../worksheets/Letter Hh.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "app/externallinks/practice/Uppercase/I/index.html",
+          "thumbnail": "../../thumbnails/i.jpg",
+          "worksheet": "../../worksheets/Letter Ii.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "app/externallinks/practice/Uppercase/J/index.html",
+          "thumbnail": "../../thumbnails/j.jpg",
+          "worksheet": "../../worksheets/Letter Jj.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "app/externallinks/practice/Uppercase/K/index.html",
+          "thumbnail": "../../thumbnails/k.jpg",
+          "worksheet": "../../worksheets/Letter Kk.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "app/externallinks/practice/Uppercase/L/index.html",
+          "thumbnail": "../../thumbnails/l.jpg",
+          "worksheet": "../../worksheets/Letter Ll.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "app/externallinks/practice/Uppercase/M/index.html",
+          "thumbnail": "../../thumbnails/m.jpg",
+          "worksheet": "../../worksheets/Letter Mm.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "app/externallinks/practice/Uppercase/N/index.html",
+          "thumbnail": "../../thumbnails/n.jpg",
+          "worksheet": "../../worksheets/Letter Nn.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "app/externallinks/practice/Uppercase/O/index.html",
+          "thumbnail": "../../thumbnails/o.jpg",
+          "worksheet": "../../worksheets/Letter Oo.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "app/externallinks/practice/Uppercase/P/index.html",
+          "thumbnail": "../../thumbnails/p.jpg",
+          "worksheet": "../../worksheets/Letter Pp.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "app/externallinks/practice/Uppercase/Q/index.html",
+          "thumbnail": "../../thumbnails/q.jpg",
+          "worksheet": "../../worksheets/Letter Qq.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "app/externallinks/practice/Uppercase/R/index.html",
+          "thumbnail": "../../thumbnails/r.jpg",
+          "worksheet": "../../worksheets/Letter Rr.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "app/externallinks/practice/Uppercase/S/index.html",
+          "thumbnail": "../../thumbnails/s.jpg",
+          "worksheet": "../../worksheets/Letter Ss.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "app/externallinks/practice/Uppercase/T/index.html",
+          "thumbnail": "../../thumbnails/t.jpg",
+          "worksheet": "../../worksheets/Letter Tt.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "app/externallinks/practice/Uppercase/U/index.html",
+          "thumbnail": "../../thumbnails/u.jpg",
+          "worksheet": "../../worksheets/Letter Uu.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "app/externallinks/practice/Uppercase/V/index.html",
+          "thumbnail": "../../thumbnails/v.jpg",
+          "worksheet": "../../worksheets/Letter Vv.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "app/externallinks/practice/Uppercase/W/index.html",
+          "thumbnail": "../../thumbnails/w.jpg",
+          "worksheet": "../../worksheets/Letter Ww.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "app/externallinks/practice/Uppercase/X/index.html",
+          "thumbnail": "../../thumbnails/x.jpg",
+          "worksheet": "../../worksheets/Letter Xx.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "app/externallinks/practice/Uppercase/Y/index.html",
+          "thumbnail": "../../thumbnails/y.jpg",
+          "worksheet": "../../worksheets/Letter Yy.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "app/externallinks/practice/Uppercase/Z/index.html",
+          "thumbnail": "../../thumbnails/z.jpg",
+          "worksheet": "../../worksheets/Letter Zz.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "app/externallinks/practice/Lowercase/a/index.html",
+          "thumbnail": "../../thumbnails/a.jpg",
+          "worksheet": "../../worksheets/Letter Aa.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "app/externallinks/practice/Lowercase/b/index.html",
+          "thumbnail": "../../thumbnails/b.jpg",
+          "worksheet": "../../worksheets/Letter Bb.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "app/externallinks/practice/Lowercase/c/index.html",
+          "thumbnail": "../../thumbnails/c.jpg",
+          "worksheet": "../../worksheets/Letter Cc.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "app/externallinks/practice/Lowercase/d/index.html",
+          "thumbnail": "../../thumbnails/d.jpg",
+          "worksheet": "../../worksheets/Letter Dd.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "app/externallinks/practice/Lowercase/e/index.html",
+          "thumbnail": "../../thumbnails/e.jpg",
+          "worksheet": "../../worksheets/Letter Ee.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "app/externallinks/practice/Lowercase/f/index.html",
+          "thumbnail": "../../thumbnails/f.jpg",
+          "worksheet": "../../worksheets/Letter Ff.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "app/externallinks/practice/Lowercase/g/index.html",
+          "thumbnail": "../../thumbnails/g.jpg",
+          "worksheet": "../../worksheets/Letter Gg.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "app/externallinks/practice/Lowercase/h/index.html",
+          "thumbnail": "../../thumbnails/h.jpg",
+          "worksheet": "../../worksheets/Letter Hh.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "app/externallinks/practice/Lowercase/i/index.html",
+          "thumbnail": "../../thumbnails/i.jpg",
+          "worksheet": "../../worksheets/Letter Ii.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "app/externallinks/practice/Lowercase/j/index.html",
+          "thumbnail": "../../thumbnails/j.jpg",
+          "worksheet": "../../worksheets/Letter Jj.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "app/externallinks/practice/Lowercase/k/index.html",
+          "thumbnail": "../../thumbnails/k.jpg",
+          "worksheet": "../../worksheets/Letter Kk.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "app/externallinks/practice/Lowercase/l/index.html",
+          "thumbnail": "../../thumbnails/l.jpg",
+          "worksheet": "../../worksheets/Letter Ll.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "app/externallinks/practice/Lowercase/m/index.html",
+          "thumbnail": "../../thumbnails/m.jpg",
+          "worksheet": "../../worksheets/Letter Mm.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "app/externallinks/practice/Lowercase/n/index.html",
+          "thumbnail": "../../thumbnails/n.jpg",
+          "worksheet": "../../worksheets/Letter Nn.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "app/externallinks/practice/Lowercase/o/index.html",
+          "thumbnail": "../../thumbnails/o.jpg",
+          "worksheet": "../../worksheets/Letter Oo.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "app/externallinks/practice/Lowercase/p/index.html",
+          "thumbnail": "../../thumbnails/p.jpg",
+          "worksheet": "../../worksheets/Letter Pp.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "app/externallinks/practice/Lowercase/q/index.html",
+          "thumbnail": "../../thumbnails/q.jpg",
+          "worksheet": "../../worksheets/Letter Qq.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "app/externallinks/practice/Lowercase/r/index.html",
+          "thumbnail": "../../thumbnails/r.jpg",
+          "worksheet": "../../worksheets/Letter Rr.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "app/externallinks/practice/Lowercase/s/index.html",
+          "thumbnail": "../../thumbnails/s.jpg",
+          "worksheet": "../../worksheets/Letter Ss.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "app/externallinks/practice/Lowercase/t/index.html",
+          "thumbnail": "../../thumbnails/t.jpg",
+          "worksheet": "../../worksheets/Letter Tt.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "app/externallinks/practice/Lowercase/u/index.html",
+          "thumbnail": "../../thumbnails/u.jpg",
+          "worksheet": "../../worksheets/Letter Uu.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "app/externallinks/practice/Lowercase/v/index.html",
+          "thumbnail": "../../thumbnails/v.jpg",
+          "worksheet": "../../worksheets/Letter Vv.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "app/externallinks/practice/Lowercase/w/index.html",
+          "thumbnail": "../../thumbnails/w.jpg",
+          "worksheet": "../../worksheets/Letter Ww.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "app/externallinks/practice/Lowercase/x/index.html",
+          "thumbnail": "../../thumbnails/x.jpg",
+          "worksheet": "../../worksheets/Letter Xx.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "app/externallinks/practice/Lowercase/y/index.html",
+          "thumbnail": "../../thumbnails/y.jpg",
+          "worksheet": "../../worksheets/Letter Yy.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "app/externallinks/practice/Lowercase/z/index.html",
+          "thumbnail": "../../thumbnails/z.jpg",
+          "worksheet": "../../worksheets/Letter Zz.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "app/externallinks/practice/Numbers/0/index.html",
+          "thumbnail": "../../thumbnails/0.jpg",
+          "worksheet": "../../worksheets/Letter 0.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "app/externallinks/practice/Numbers/1/index.html",
+          "thumbnail": "../../thumbnails/1.jpg",
+          "worksheet": "../../worksheets/Letter 1.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "app/externallinks/practice/Numbers/2/index.html",
+          "thumbnail": "../../thumbnails/2.jpg",
+          "worksheet": "../../worksheets/Letter 2.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "app/externallinks/practice/Numbers/3/index.html",
+          "thumbnail": "../../thumbnails/3.jpg",
+          "worksheet": "../../worksheets/Letter 3.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "app/externallinks/practice/Numbers/4/index.html",
+          "thumbnail": "../../thumbnails/4.jpg",
+          "worksheet": "../../worksheets/Letter 4.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "app/externallinks/practice/Numbers/5/index.html",
+          "thumbnail": "../../thumbnails/5.jpg",
+          "worksheet": "../../worksheets/Letter 5.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "app/externallinks/practice/Numbers/6/index.html",
+          "thumbnail": "../../thumbnails/6.jpg",
+          "worksheet": "../../worksheets/Letter 6.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "app/externallinks/practice/Numbers/7/index.html",
+          "thumbnail": "../../thumbnails/7.jpg",
+          "worksheet": "../../worksheets/Letter 7.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "app/externallinks/practice/Numbers/8/index.html",
+          "thumbnail": "../../thumbnails/8.jpg",
+          "worksheet": "../../worksheets/Letter 8.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "app/externallinks/practice/Numbers/9/index.html",
+          "thumbnail": "../../thumbnails/9.jpg",
+          "worksheet": "../../worksheets/Letter 9.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ]
+    },
+    "cursive": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/A/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/B/index.html",
+          "thumbnail": "../../thumbnails/cursive/b.jpg",
+          "worksheet": "../../worksheets/cursive/b.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/C/index.html",
+          "thumbnail": "../../thumbnails/cursive/c.jpg",
+          "worksheet": "../../worksheets/cursive/c.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/D/index.html",
+          "thumbnail": "../../thumbnails/cursive/d.jpg",
+          "worksheet": "../../worksheets/cursive/d.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/E/index.html",
+          "thumbnail": "../../thumbnails/cursive/e.jpg",
+          "worksheet": "../../worksheets/cursive/e.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/F/index.html",
+          "thumbnail": "../../thumbnails/cursive/f.jpg",
+          "worksheet": "../../worksheets/cursive/f.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/G/index.html",
+          "thumbnail": "../../thumbnails/cursive/g.jpg",
+          "worksheet": "../../worksheets/cursive/g.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/H/index.html",
+          "thumbnail": "../../thumbnails/cursive/h.jpg",
+          "worksheet": "../../worksheets/cursive/h.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/I/index.html",
+          "thumbnail": "../../thumbnails/cursive/i.jpg",
+          "worksheet": "../../worksheets/cursive/i.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/J/index.html",
+          "thumbnail": "../../thumbnails/cursive/j.jpg",
+          "worksheet": "../../worksheets/cursive/j.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/K/index.html",
+          "thumbnail": "../../thumbnails/cursive/k.jpg",
+          "worksheet": "../../worksheets/cursive/k.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/L/index.html",
+          "thumbnail": "../../thumbnails/cursive/l.jpg",
+          "worksheet": "../../worksheets/cursive/l.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/M/index.html",
+          "thumbnail": "../../thumbnails/cursive/m.jpg",
+          "worksheet": "../../worksheets/cursive/m.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/N/index.html",
+          "thumbnail": "../../thumbnails/cursive/n.jpg",
+          "worksheet": "../../worksheets/cursive/n.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/O/index.html",
+          "thumbnail": "../../thumbnails/cursive/o.jpg",
+          "worksheet": "../../worksheets/cursive/o.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/P/index.html",
+          "thumbnail": "../../thumbnails/cursive/p.jpg",
+          "worksheet": "../../worksheets/cursive/p.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/Q/index.html",
+          "thumbnail": "../../thumbnails/cursive/q.jpg",
+          "worksheet": "../../worksheets/cursive/q.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/R/index.html",
+          "thumbnail": "../../thumbnails/cursive/r.jpg",
+          "worksheet": "../../worksheets/cursive/r.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/S/index.html",
+          "thumbnail": "../../thumbnails/cursive/s.jpg",
+          "worksheet": "../../worksheets/cursive/s.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/T/index.html",
+          "thumbnail": "../../thumbnails/cursive/t.jpg",
+          "worksheet": "../../worksheets/cursive/t.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/U/index.html",
+          "thumbnail": "../../thumbnails/cursive/u.jpg",
+          "worksheet": "../../worksheets/cursive/u.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/V/index.html",
+          "thumbnail": "../../thumbnails/cursive/v.jpg",
+          "worksheet": "../../worksheets/cursive/v.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/W/index.html",
+          "thumbnail": "../../thumbnails/cursive/w.jpg",
+          "worksheet": "../../worksheets/cursive/w.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/X/index.html",
+          "thumbnail": "../../thumbnails/cursive/x.jpg",
+          "worksheet": "../../worksheets/cursive/x.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/Y/index.html",
+          "thumbnail": "../../thumbnails/cursive/y.jpg",
+          "worksheet": "../../worksheets/cursive/y.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "app/externallinks/cursive/practice/Uppercase/Z/index.html",
+          "thumbnail": "../../thumbnails/cursive/z.jpg",
+          "worksheet": "../../worksheets/cursive/z.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/a/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/b/index.html",
+          "thumbnail": "../../thumbnails/cursive/b.jpg",
+          "worksheet": "../../worksheets/cursive/b.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/c/index.html",
+          "thumbnail": "../../thumbnails/cursive/c.jpg",
+          "worksheet": "../../worksheets/cursive/c.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/d/index.html",
+          "thumbnail": "../../thumbnails/cursive/d.jpg",
+          "worksheet": "../../worksheets/cursive/d.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/e/index.html",
+          "thumbnail": "../../thumbnails/cursive/e.jpg",
+          "worksheet": "../../worksheets/cursive/e.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/f/index.html",
+          "thumbnail": "../../thumbnails/cursive/f.jpg",
+          "worksheet": "../../worksheets/cursive/f.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/g/index.html",
+          "thumbnail": "../../thumbnails/cursive/g.jpg",
+          "worksheet": "../../worksheets/cursive/g.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/h/index.html",
+          "thumbnail": "../../thumbnails/cursive/h.jpg",
+          "worksheet": "../../worksheets/cursive/h.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/i/index.html",
+          "thumbnail": "../../thumbnails/cursive/i.jpg",
+          "worksheet": "../../worksheets/cursive/i.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/j/index.html",
+          "thumbnail": "../../thumbnails/cursive/j.jpg",
+          "worksheet": "../../worksheets/cursive/j.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/k/index.html",
+          "thumbnail": "../../thumbnails/cursive/k.jpg",
+          "worksheet": "../../worksheets/cursive/k.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/l/index.html",
+          "thumbnail": "../../thumbnails/cursive/l.jpg",
+          "worksheet": "../../worksheets/cursive/l.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/m/index.html",
+          "thumbnail": "../../thumbnails/cursive/m.jpg",
+          "worksheet": "../../worksheets/cursive/m.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/n/index.html",
+          "thumbnail": "../../thumbnails/cursive/n.jpg",
+          "worksheet": "../../worksheets/cursive/n.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/o/index.html",
+          "thumbnail": "../../thumbnails/cursive/o.jpg",
+          "worksheet": "../../worksheets/cursive/o.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/p/index.html",
+          "thumbnail": "../../thumbnails/cursive/p.jpg",
+          "worksheet": "../../worksheets/cursive/p.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/q/index.html",
+          "thumbnail": "../../thumbnails/cursive/q.jpg",
+          "worksheet": "../../worksheets/cursive/q.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/r/index.html",
+          "thumbnail": "../../thumbnails/cursive/r.jpg",
+          "worksheet": "../../worksheets/cursive/r.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/s/index.html",
+          "thumbnail": "../../thumbnails/cursive/s.jpg",
+          "worksheet": "../../worksheets/cursive/s.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/t/index.html",
+          "thumbnail": "../../thumbnails/cursive/t.jpg",
+          "worksheet": "../../worksheets/cursive/t.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/u/index.html",
+          "thumbnail": "../../thumbnails/cursive/u.jpg",
+          "worksheet": "../../worksheets/cursive/u.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/v/index.html",
+          "thumbnail": "../../thumbnails/cursive/v.jpg",
+          "worksheet": "../../worksheets/cursive/v.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/w/index.html",
+          "thumbnail": "../../thumbnails/cursive/w.jpg",
+          "worksheet": "../../worksheets/cursive/w.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/x/index.html",
+          "thumbnail": "../../thumbnails/cursive/x.jpg",
+          "worksheet": "../../worksheets/cursive/x.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/y/index.html",
+          "thumbnail": "../../thumbnails/cursive/y.jpg",
+          "worksheet": "../../worksheets/cursive/y.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "app/externallinks/cursive/practice/Lowercase/z/index.html",
+          "thumbnail": "../../thumbnails/cursive/z.jpg",
+          "worksheet": "../../worksheets/cursive/z.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/0/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/1/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/2/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/3/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/4/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/5/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/6/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/7/index.html",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/8/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "app/externallinks/cursive/practice/Numbers/9/index.html",
+          "thumbnail": "../../thumbnails/cursive/a.jpg",
+          "worksheet": "../../worksheets/cursive/a.pdf",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ]
+    }
+  },
+  "worksheets": {
+    "manuscript": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=1",
+          "letterandsound": "ManuscriptAa",
+          "writingabc": "Letter Aa",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=2",
+          "letterandsound": "ManuscriptBb",
+          "writingabc": "Letter Bb",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=3",
+          "letterandsound": "ManuscriptCc",
+          "writingabc": "Letter Cc",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=4",
+          "letterandsound": "ManuscriptDd",
+          "writingabc": "Letter Dd",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=5",
+          "letterandsound": "ManuscriptEe",
+          "writingabc": "Letter Ee",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=6",
+          "letterandsound": "ManuscriptFf",
+          "writingabc": "Letter Ff",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=7",
+          "letterandsound": "ManuscriptGg",
+          "writingabc": "Letter Gg",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=8",
+          "letterandsound": "ManuscriptHh",
+          "writingabc": "Letter Hh",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=9",
+          "letterandsound": "ManuscriptIi",
+          "writingabc": "Letter Ii",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=10",
+          "letterandsound": "ManuscriptJj",
+          "writingabc": "Letter Jj",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=11",
+          "letterandsound": "ManuscriptKk",
+          "writingabc": "Letter Kk",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=12",
+          "letterandsound": "ManuscriptLl",
+          "writingabc": "Letter Ll",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=13",
+          "letterandsound": "ManuscriptMm",
+          "writingabc": "Letter Mm",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=14",
+          "letterandsound": "ManuscriptNn",
+          "writingabc": "Letter Nn",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=15",
+          "letterandsound": "ManuscriptOo",
+          "writingabc": "Letter Oo",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=16",
+          "letterandsound": "ManuscriptPp",
+          "writingabc": "Letter Pp",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=17",
+          "letterandsound": "ManuscriptQq",
+          "writingabc": "Letter Qq",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=18",
+          "letterandsound": "ManuscriptRr",
+          "writingabc": "Letter Rr",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=19",
+          "letterandsound": "ManuscriptSs",
+          "writingabc": "Letter Ss",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=20",
+          "letterandsound": "ManuscriptTt",
+          "writingabc": "Letter Tt",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=21",
+          "letterandsound": "ManuscriptUu",
+          "writingabc": "Letter Uu",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=22",
+          "letterandsound": "ManuscriptVv",
+          "writingabc": "Letter Vv",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=23",
+          "letterandsound": "ManuscriptWw",
+          "writingabc": "Letter Ww",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=24",
+          "letterandsound": "ManuscriptXx",
+          "writingabc": "Letter Xx",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=25",
+          "letterandsound": "ManuscriptYy",
+          "writingabc": "Letter Yy",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=26",
+          "letterandsound": "ManuscriptZz",
+          "writingabc": "Letter Zz",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=27",
+          "letterandsound": "ManuscriptAa",
+          "writingabc": "Letter Aa",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=28",
+          "letterandsound": "ManuscriptBb",
+          "writingabc": "Letter Bb",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=29",
+          "letterandsound": "ManuscriptCc",
+          "writingabc": "Letter Cc",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=30",
+          "letterandsound": "ManuscriptDd",
+          "writingabc": "Letter Dd",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=31",
+          "letterandsound": "ManuscriptEe",
+          "writingabc": "Letter Ee",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=32",
+          "letterandsound": "ManuscriptFf",
+          "writingabc": "Letter Ff",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=33",
+          "letterandsound": "ManuscriptGg",
+          "writingabc": "Letter Gg",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=34",
+          "letterandsound": "ManuscriptHh",
+          "writingabc": "Letter Hh",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=35",
+          "letterandsound": "ManuscriptIi",
+          "writingabc": "Letter Ii",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=36",
+          "letterandsound": "ManuscriptJj",
+          "writingabc": "Letter Jj",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=37",
+          "letterandsound": "ManuscriptKk",
+          "writingabc": "Letter Kk",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=38",
+          "letterandsound": "ManuscriptLl",
+          "writingabc": "Letter Ll",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=39",
+          "letterandsound": "ManuscriptMm",
+          "writingabc": "Letter Mm",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=40",
+          "letterandsound": "ManuscriptNn",
+          "writingabc": "Letter Nn",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=41",
+          "letterandsound": "ManuscriptOo",
+          "writingabc": "Letter Oo",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=42",
+          "letterandsound": "ManuscriptPp",
+          "writingabc": "Letter Pp",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=43",
+          "letterandsound": "ManuscriptQq",
+          "writingabc": "Letter Qq",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=44",
+          "letterandsound": "ManuscriptRr",
+          "writingabc": "Letter Rr",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=45",
+          "letterandsound": "ManuscriptSs",
+          "writingabc": "Letter Ss",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=46",
+          "letterandsound": "ManuscriptTt",
+          "writingabc": "Letter Tt",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=47",
+          "letterandsound": "ManuscriptUu",
+          "writingabc": "Letter Uu",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=48",
+          "letterandsound": "ManuscriptVv",
+          "writingabc": "Letter Vv",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=49",
+          "letterandsound": "ManuscriptWw",
+          "writingabc": "Letter Ww",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=50",
+          "letterandsound": "ManuscriptXx",
+          "writingabc": "Letter Xx",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=51",
+          "letterandsound": "ManuscriptYy",
+          "writingabc": "Letter Yy",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=52",
+          "letterandsound": "ManuscriptZz",
+          "writingabc": "Letter Zz",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=53",
+          "letterandsound": "Manuscript0",
+          "writingabc": "Letter 0",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=54",
+          "letterandsound": "Manuscript1",
+          "writingabc": "Letter 1",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=55",
+          "letterandsound": "Manuscript2",
+          "writingabc": "Letter 2",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=56",
+          "letterandsound": "Manuscript3",
+          "writingabc": "Letter 3",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=57",
+          "letterandsound": "Manuscript4",
+          "writingabc": "Letter 4",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=58",
+          "letterandsound": "Manuscript5",
+          "writingabc": "Letter 5",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=59",
+          "letterandsound": "Manuscript6",
+          "writingabc": "Letter 6",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=60",
+          "letterandsound": "Manuscript7",
+          "writingabc": "Letter 7",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=61",
+          "letterandsound": "Manuscript8",
+          "writingabc": "Letter 8",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "app/externallinks/test/manuscript/index.html?dummy=62",
+          "letterandsound": "Manuscript9",
+          "writingabc": "Letter 9",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ]
+    },
+    "cursive": {
+      "uppercase": [
+        {
+          "name": "A",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=1",
+          "letterandsound": "a",
+          "writingabc": "a",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "B",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=2",
+          "letterandsound": "b",
+          "writingabc": "b",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "C",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=3",
+          "letterandsound": "c",
+          "writingabc": "c",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": true,
+          "scorm_status": ""
+        },
+        {
+          "name": "D",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=4",
+          "letterandsound": "d",
+          "writingabc": "d",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "E",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=5",
+          "letterandsound": "e",
+          "writingabc": "e",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "F",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=6",
+          "letterandsound": "f",
+          "writingabc": "f",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "G",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=7",
+          "letterandsound": "g",
+          "writingabc": "g",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "H",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=8",
+          "letterandsound": "h",
+          "writingabc": "h",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "I",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=9",
+          "letterandsound": "i",
+          "writingabc": "i",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "J",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=10",
+          "letterandsound": "j",
+          "writingabc": "j",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "K",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=11",
+          "letterandsound": "k",
+          "writingabc": "k",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "L",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=12",
+          "letterandsound": "l",
+          "writingabc": "l",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "M",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=13",
+          "letterandsound": "m",
+          "writingabc": "m",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "N",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=14",
+          "letterandsound": "n",
+          "writingabc": "n",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "O",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=15",
+          "letterandsound": "o",
+          "writingabc": "o",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "P",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=16",
+          "letterandsound": "p",
+          "writingabc": "p",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Q",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=17",
+          "letterandsound": "q",
+          "writingabc": "q",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "R",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=18",
+          "letterandsound": "r",
+          "writingabc": "r",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "S",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=19",
+          "letterandsound": "s",
+          "writingabc": "s",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "T",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=20",
+          "letterandsound": "t",
+          "writingabc": "t",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "U",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=21",
+          "letterandsound": "u",
+          "writingabc": "u",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "V",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=22",
+          "letterandsound": "v",
+          "writingabc": "v",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "W",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=23",
+          "letterandsound": "w",
+          "writingabc": "w",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "X",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=24",
+          "letterandsound": "x",
+          "writingabc": "x",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Y",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=25",
+          "letterandsound": "y",
+          "writingabc": "y",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "Z",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=26",
+          "letterandsound": "z",
+          "writingabc": "z",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "lowercase": [
+        {
+          "name": "a",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=27",
+          "letterandsound": "a",
+          "writingabc": "a",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "b",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=28",
+          "letterandsound": "b",
+          "writingabc": "b",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "c",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=29",
+          "letterandsound": "c",
+          "writingabc": "c",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "d",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=30",
+          "letterandsound": "d",
+          "writingabc": "d",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "e",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=31",
+          "letterandsound": "e",
+          "writingabc": "e",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "f",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=32",
+          "letterandsound": "f",
+          "writingabc": "f",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "g",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=33",
+          "letterandsound": "g",
+          "writingabc": "g",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "h",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=34",
+          "letterandsound": "h",
+          "writingabc": "h",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "i",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=35",
+          "letterandsound": "i",
+          "writingabc": "i",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "j",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=36",
+          "letterandsound": "j",
+          "writingabc": "j",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "k",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=37",
+          "letterandsound": "k",
+          "writingabc": "k",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "l",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=38",
+          "letterandsound": "l",
+          "writingabc": "l",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "m",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=39",
+          "letterandsound": "m",
+          "writingabc": "m",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "n",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=40",
+          "letterandsound": "n",
+          "writingabc": "n",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "o",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=41",
+          "letterandsound": "o",
+          "writingabc": "o",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "p",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=42",
+          "letterandsound": "p",
+          "writingabc": "p",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "q",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=43",
+          "letterandsound": "q",
+          "writingabc": "q",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "r",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=44",
+          "letterandsound": "r",
+          "writingabc": "r",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "s",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=45",
+          "letterandsound": "s",
+          "writingabc": "s",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "t",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=46",
+          "letterandsound": "t",
+          "writingabc": "t",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "u",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=47",
+          "letterandsound": "u",
+          "writingabc": "u",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "v",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=48",
+          "letterandsound": "v",
+          "writingabc": "v",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "w",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=49",
+          "letterandsound": "w",
+          "writingabc": "w",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "x",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=50",
+          "letterandsound": "x",
+          "writingabc": "x",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "y",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=51",
+          "letterandsound": "y",
+          "writingabc": "y",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "z",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=52",
+          "letterandsound": "z",
+          "writingabc": "z",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ],
+      "numbers": [
+        {
+          "name": "0",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=53",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "1",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=54",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "2",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=55",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "3",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=56",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "4",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=57",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "5",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=58",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "6",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=59",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "7",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=60",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "8",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=61",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        },
+        {
+          "name": "9",
+          
+          "url": "app/externallinks/cursive/worksheet/cursive/index.html?dummy=62",
+          "status": "0",
+          "scormurl": "http://172.24.137.114:80/lms/mod/scorm/player.php?scoid=8428&cm=4752",
+          "isadded": false,
+          "scorm_status": ""
+        }
+      ]
+    }
+  }
+}
